@@ -9,7 +9,7 @@ The design was implemented on an Arduino Uno board. Two serial/parallel ```74HC5
 
 Code parameters are available in ```parameters.h``` to make changes to pin layout and several parameters simpler. 
 
-![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)
+![Demo Gif](demo.gif)
 
 
 
