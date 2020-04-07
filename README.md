@@ -15,4 +15,4 @@ Code parameters are available in ```parameters.h``` to make changes to pin layou
 
 ## Disclaimer
 
-This is just a for-fun project and may contain bugs or sub-optimal coding, just so you know.
+This is just a for-fun project and may contain bugs or sub-optimal coding.
